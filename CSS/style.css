@@ -522,6 +522,11 @@ main{
 	margin-left: auto;
 	margin-top: 159px;
 }
+.design-of-objects-button:hover{
+	border: 0;
+	background-color: #F8A25A;
+	color: white;
+}
 .design-of-objects-button-block a:hover{
 	background-color: #F7A15A;
 	color: white;
